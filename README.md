@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on personal finance tracker<br>- 🌱 I’m currently learning Data Analatics and AI with ML<br>- 👯 I’m looking to collaborate on technology based pjoects and wrok shops<br>- 💬 Ask me about Python,Data Science,MongoDb,mySQL,Machine learning,Artificial intelligence<br>- 📫 How to reach me: contact: +919966732012, mail: shaiks.sharuk@gmail.com, linkedin: https://www.linkedin.com/in/sharu-shaik-b98659284<br>- ⚡ Fun fact: laziest person to listen and learn
+- 🔭 I’m currently working on PERSONAL AI CHATBOT<br>- 🌱 I’m currently learning Data Analatics and AI with ML<br>- 👯 I’m looking to collaborate on technology based pjoects and wrok shops<br>- 💬 Ask me about Python,Data Science,MongoDb,mySQL,Machine learning,Artificial intelligence<br>- 📫 How to reach me: contact: +919966732012, mail: shaiks.sharuk@gmail.com, linkedin: https://www.linkedin.com/in/sharu-shaik-b98659284<br>- ⚡ Fun fact: laziest person to listen and learn
 
 
 ## 🌐 Socials:
